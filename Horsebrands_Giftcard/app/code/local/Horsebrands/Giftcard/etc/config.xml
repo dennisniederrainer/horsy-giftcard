@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Horsebrands_Giftcard>
+            <version>0.9.0</version>
+        </Horsebrands_Giftcard>
+    </modules>
+    <global>
+        <blocks>
+            <giftcard>
+                <class>Horsebrands_Giftcard_Block</class>
+            </giftcard>
+        </blocks>
+        <models>
+            <giftcard>
+                <class>Horsebrands_Giftcard_Model</class>
+            </giftcard>
+        </models>
+        <helpers>
+            <giftcard>
+                <class>Horsebrands_Giftcard_Helper</class>
+            </giftcard>
+        </helpers>
+    </global>
+    <frontend>
+        <layout>
+            <updates>
+                <giftcard>
+                    <file>giftcard.xml</file>
+                </giftcard>
+            </updates>
+        </layout>
+    </frontend>
+</config>

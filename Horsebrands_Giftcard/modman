@@ -1,0 +1,4 @@
+app/code/local/Horsebrands/Giftcard
+app/design/frontend/base/default/layout/giftcard.xml
+app/design/frontend/base/default/template/horsebrands/giftcard
+app/etc/modules/Horsebrands_Giftcard.xml
