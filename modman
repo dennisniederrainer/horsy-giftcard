@@ -1,4 +1,4 @@
 Horsebrands_Giftcard/app/code/local/Horsebrands/Giftcard                              app/code/local/Horsebrands/Giftcard
-Horsebrands_Giftcard/app/design/frontend/base/default/layout/giftcard.xml             app/design/frontend/base/default/layout/giftcard.xml
-Horsebrands_Giftcard/app/design/frontend/base/default/template/horsebrands/giftcard   app/design/frontend/base/default/template/horsebrands/giftcard
+Horsebrands_Giftcard/app/design/frontend/rwd/default/layout/giftcard.xml             app/design/frontend/base/default/layout/giftcard.xml
+Horsebrands_Giftcard/app/design/frontend/rwd/default/template/horsebrands/giftcard   app/design/frontend/base/default/template/horsebrands/giftcard
 Horsebrands_Giftcard/app/etc/modules/Horsebrands_Giftcard.xml                         app/etc/modules/Horsebrands_Giftcard.xml
